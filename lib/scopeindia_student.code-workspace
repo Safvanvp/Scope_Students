@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "scopeindia_student",
+			"path": ".."
+		},
+		{
+			"name": "Image",
+			"path": "../../final_project/Image"
+		}
+	],
+	"settings": {}
+}
