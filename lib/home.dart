@@ -30,7 +30,7 @@ class _HomePageState extends State<HomePage> {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     setState(() {
       userName = prefs.getString('userName');
-      print("hello")
+      print("hello");
       // userPassword = prefs.getString('userPassword');
     });
   }
